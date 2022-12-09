@@ -31,8 +31,50 @@ My main focus is in Education, Mentoring, Software Engineering, Computer Science
 
 ## My Favorite Websites
 
-| Name    | URL                   |
-| ------- | --------------------- |
-| Google  | <https://google.com>  |
-| GitHub  | <https://github.com>  |
-| Twitter | <https://twitter.com> |
+| Name    | URL                   | Reason                         |
+| ------- | --------------------- | ------------------------------ |
+| Google  | <https://google.com>  | To search anything             |
+| GitHub  | <https://github.com>  | To search and learn about code |
+| Twitter | <https://twitter.com> | To talk with tech people       |
+
+## My Code Examples
+
+### Markdown
+
+```markdown
+# Hello World
+
+This is a paragraph.
+```
+
+### HTML
+
+```html
+<main class="content">
+  <h1>Hello World</h1>
+  <p>This is a paragraph.</p>
+</main>
+```
+
+### CSS
+
+```css
+.content {
+  color: #111;
+  font-size: 1.2rem;
+}
+```
+
+### JavaScript
+
+```js
+const text = "Hello World";
+console.log(text);
+```
+
+### TypeScript
+
+```js
+const text: string = "Hello World";
+console.log(text);
+```
